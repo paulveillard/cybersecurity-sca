@@ -7,7 +7,7 @@
 Software Composition Analysis (SCA) is verification of the third-party libraries, frameworks and components used within your application; all of the code that you and your team did not write is considered by SCA tools.
 
 
-# Table of Contents
+## Table of Contents
 - [Books](#books)
 - [Articles](#articles)
 - [Courses](#courses)
